@@ -4,10 +4,10 @@ import android.app.Activity;
 import android.content.Context;
 import android.util.Log;
 import au.com.tyo.android.AndroidMarket;
-import au.com.tyo.android.utils.IabHelper;
-import au.com.tyo.android.utils.IabResult;
-import au.com.tyo.android.utils.Inventory;
-import au.com.tyo.android.utils.Purchase;
+import au.com.tyo.billing.utils.IabHelper;
+import au.com.tyo.billing.utils.IabResult;
+import au.com.tyo.billing.utils.Inventory;
+import au.com.tyo.billing.utils.Purchase;
 import au.com.tyo.utils.RandomString;
 
 public abstract class MarketPurchase {

@@ -3,8 +3,8 @@ package au.com.tyo.billing.purchase;
 import android.content.Context;
 import android.util.Log;
 import au.com.tyo.android.AndroidMarket;
-import au.com.tyo.android.utils.Inventory;
-import au.com.tyo.android.utils.Purchase;
+import au.com.tyo.billing.utils.Inventory;
+import au.com.tyo.billing.utils.Purchase;
 
 public class Donation extends MarketPurchase {
 

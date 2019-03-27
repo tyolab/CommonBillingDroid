@@ -1,8 +1,8 @@
 package au.com.tyo.billing.purchase;
 
 import android.app.Activity;
-import au.com.tyo.android.utils.IabResult;
-import au.com.tyo.android.utils.Purchase;
+import au.com.tyo.billing.utils.IabResult;
+import au.com.tyo.billing.utils.Purchase;
 
 public interface PurchaseController {
 
