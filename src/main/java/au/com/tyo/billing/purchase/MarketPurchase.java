@@ -29,7 +29,7 @@ public abstract class MarketPurchase {
     
     private RandomString randomStr;
     
-    private PurchaseController controller;
+//    private PurchaseController controller;
     
     private Inventory purcahseInventory;
     
